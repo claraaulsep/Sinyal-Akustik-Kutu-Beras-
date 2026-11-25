@@ -1,0 +1,5 @@
+spesies,n_rekaman,n_level,median_per_level,KW_H,KW_p,spearman_rho,spearman_p_greater,naik_signifikan
+R. dominica,45,3,"{5: 1.0, 20: 1.0, 40: 1.0}",,,,,False
+S. zeamais,55,3,"{5: 1.0, 20: 1.0, 40: 1.0}",,,,,False
+T. castaneum,59,3,"{5: 1.0, 20: 1.0, 40: 1.0}",,,,,False
+SEMUA,159,3,"{5: 1.0, 20: 1.0, 40: 1.0}",,,,,False

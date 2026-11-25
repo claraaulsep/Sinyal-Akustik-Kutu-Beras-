@@ -1,0 +1,47 @@
+{
+  "FS_BERSAMA": 20000,
+  "HP_HZ": 200,
+  "FRAME_S": 0.01,
+  "K_MAD": 3,
+  "SNR_LIST": [
+    -5,
+    0,
+    5,
+    10
+  ],
+  "N_POTONG": 20,
+  "ALPHAS": [
+    1.0,
+    2.0
+  ],
+  "BETA": 0.01,
+  "NPERSEG": 1024,
+  "NOVERLAP": 768,
+  "QUIET_PCT": 20,
+  "SEED": 42,
+  "ESC_KELAS": {
+    "10": "hujan",
+    "44": "mesin",
+    "30": "ketukan pintu"
+  },
+  "ESC_KATEGORI": [
+    "training"
+  ],
+  "NOISE_BB": [
+    "I3",
+    "I4",
+    "I6"
+  ],
+  "file_hama": [
+    "A3",
+    "A4",
+    "A5",
+    "A6",
+    "A7",
+    "A8",
+    "A9"
+  ],
+  "numpy": "2.5.4",
+  "scipy": "1.18.1",
+  "pandas": "3.1.0"
+}

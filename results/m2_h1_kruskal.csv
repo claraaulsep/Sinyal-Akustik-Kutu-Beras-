@@ -1,0 +1,9 @@
+faktor,fitur,n_grup,n_event,H,p,epsilon2,signifikan
+spesies,durasi_ms,2,673,39.48,3.3123215541388487e-10,0.059,True
+spesies,rasio_dB,2,673,31.53,1.959837403379575e-08,0.047,True
+spesies,f_dom_Hz,2,673,302.81,8.048590556616984e-68,0.451,True
+spesies,centroid_Hz,2,673,277.77,2.3045027303943185e-62,0.413,True
+sensor,durasi_ms,6,673,43.69,2.6825023024760505e-08,0.065,True
+sensor,rasio_dB,6,673,296.37,6.031610983632437e-62,0.441,True
+sensor,f_dom_Hz,6,673,394.35,4.908771721625707e-83,0.587,True
+sensor,centroid_Hz,6,673,399.75,3.3612826462581336e-84,0.595,True
